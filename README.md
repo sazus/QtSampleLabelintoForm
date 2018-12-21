@@ -1,0 +1,2 @@
+# QtSampleLabelintoForm
+UTF-8文字コードでの日本語文字化け対策サンプル
